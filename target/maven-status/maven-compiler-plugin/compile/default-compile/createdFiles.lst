@@ -1,0 +1,6 @@
+userinfo\UserSteps.class
+utils\TestUtils.class
+services\BaseService.class
+utils\PropertyReader.class
+models\CreateUserModel.class
+services\GoRestService.class
